@@ -1,0 +1,292 @@
+{
+  "Button": {
+    "Bg": {
+      "Button-bg-primary-hover": {
+        "value": "{Dark colors.gray.600}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary": {
+        "value": "{Primary}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-active": {
+        "value": "{Dark colors.gray.700}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-brand": {
+        "value": "{Brand}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-brand-hover": {
+        "value": "{Light colors.blue.600}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-brand-active": {
+        "value": "{Light colors.blue.700}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative": {
+        "value": "{Negative}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative-hover": {
+        "value": "{Dark colors.pinkDark.50}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative-active": {
+        "value": "{Dark colors.pinkDark.50}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-positive": {
+        "value": "{Positive}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-positive-hover": {
+        "value": "{Dark colors.green.600}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-positive-active": {
+        "value": "{Dark colors.green.700}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative-weak": {
+        "value": "{Negative-weakest}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative-weak-hover": {
+        "value": "{Dark colors.pinkDark.200}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-negative-weak-active": {
+        "value": "{Dark colors.pinkDark.300}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-outline-hover": {
+        "value": "{Dark colors.gray.1000}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-outline-active": {
+        "value": "{Dark colors.gray.900}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-secondary-hover": {
+        "value": "{Dark colors.gray.1000}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-secondary-active": {
+        "value": "{Light colors.gray.900}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary": {
+        "value": "{Dark colors.gray.900}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary-hover": {
+        "value": "{Dark colors.gray.1000}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary-active": {
+        "value": "{Dark colors.gray.1100}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-secondary-checked": {
+        "value": "{Dark colors.purpleDark.100}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-outline-bg-checked": {
+        "value": "{Secondary-weak}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-checked": {
+        "value": "{Dark colors.purpleDark.700}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary-checked": {
+        "value": "{Dark colors.purpleDark.700}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-checked-hover": {
+        "value": "{Dark colors.purpleDark.600}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary-checked-hover": {
+        "value": "{Dark colors.purpleDark.600}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-secondary-checked-hover": {
+        "value": "{Dark colors.purpleDark.200}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-outline-checked-hover": {
+        "value": "{Dark colors.purple.100}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-secondary-checked-active": {
+        "value": "{Dark colors.purpleDark.300}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-outline-checked-active": {
+        "value": "{Dark colors.purple.50}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-tertiary-checked-active": {
+        "value": "{Dark colors.purpleDark.500}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-checked-active": {
+        "value": "{Dark colors.purpleDark.500}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse": {
+        "value": "{Dark colors.gray.1200}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse-hover": {
+        "value": "{Dark colors.gray.1300}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse-active": {
+        "value": "{Dark colors.gray.1400}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse-checked": {
+        "value": "{Secondary}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse-checked-hover": {
+        "value": "{Dark colors.purpleDark.300}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      },
+      "Button-bg-primary-reverse-checked-active": {
+        "value": "{Dark colors.purpleDark.200}",
+        "type": "color",
+        "parent": "✨ Component/Kosmos Dark",
+        "description": ""
+      }
+    }
+  },
+  "Input": {
+    "Input-bg": {
+      "value": "{Dark colors.gray.1300}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    },
+    "Input-bg-active": {
+      "value": "{Dark colors.gray.1400}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    },
+    "Input-bg-outline": {
+      "value": "{Dark colors.gray.1300}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    }
+  },
+  "Surface": {
+    "Surface-hover": {
+      "value": "{Dark colors.gray.🚧 1050}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    },
+    "Surface-active": {
+      "value": "{Dark colors.gray.1200}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    },
+    "Surface-checked": {
+      "value": "{Secondary-weakest}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    },
+    "Surface-checked-hover": {
+      "value": "{Secondary-weak}",
+      "type": "color",
+      "parent": "✨ Component/Kosmos Dark",
+      "description": ""
+    }
+  }
+}
