@@ -6,9 +6,6 @@
     "Light Primitives/Light",
     "Dark Primitives/Dark Palette",
     "Component/Kosmos Light",
-    "Component/Kosmos Dark",
-    "Border Radius/Kosmos",
-    "Spacing Scale/Mode 1",
-    "Typography/Mode 1"
+    "Component/Kosmos Dark"
   ]
 }
