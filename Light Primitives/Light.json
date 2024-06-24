@@ -1,0 +1,1224 @@
+{
+  "Light colors": {
+    "blueLight": {
+      "50": {
+        "value": "#fafbfd",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#f0f5fa",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#d9e5f2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#cedeee",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#c7d9eb",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#b4cce5",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#9bafc5",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#7e8fa0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#5a6673",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "blue": {
+      "50": {
+        "value": "#eff5ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#d1e2ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#8cb5ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#6a9fff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#5391ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#196cff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#165ddb",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#124cb2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#0d3680",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "blueDark": {
+      "50": {
+        "value": "#eeeff1",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#cfd1d6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#878b99",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#64697b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#4c5267",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#101834",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#0e152d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#0b1124",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#080c1a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "greenLight": {
+      "50": {
+        "value": "#fafffc",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#f1fef7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#dbfdeb",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#d1fce4",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#cafbe0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#b8fad6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#9ed7b8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#81af96",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#5c7d6b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "green": {
+      "50": {
+        "value": "#edfcf7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#ccf8e9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#80edc8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#59e8b7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#40e4ad",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#00db91",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#00bc7d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#009966",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#006e49",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "greenDark": {
+      "50": {
+        "value": "#eef5f2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#cfe1da",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#86b5a2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#629f86",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#4a9074",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#0d6b45",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#0b5c3b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#094b30",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#073623",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "pinkLight": {
+      "50": {
+        "value": "#fffafc",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#fff1f6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffdce7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffd1e0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffcbdc",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ffb9d0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#db9fb3",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#b28192",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#805d68",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "pink": {
+      "50": {
+        "value": "#fff6f9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffe6ee",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffbfd5",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffacc8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffa0c0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff80ab",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#db6e93",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#b25a78",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#804056",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "pinkDark": {
+      "50": {
+        "value": "#fff2f1",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffd9d8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ff9f9e",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#ff8381",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff706e",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff403d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#db3734",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#b22d2b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#80201f",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "purpleLight": {
+      "50": {
+        "value": "#fcfcff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#f6f6ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#e8e9ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#e1e3ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#dddfff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#d1d4ff",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#b4b6db",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#9294b2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#696a80",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "purple": {
+      "50": {
+        "value": "#f8f8fe",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#eaebfd",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#cbcdfa",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#bbbff8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#b0b5f7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#969cf5",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#8186d3",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#696dab",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#4b4e7b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "purpleDark": {
+      "50": {
+        "value": "#f5f3fa",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#e2ddf2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#b6a9de",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#a190d4",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#927fcd",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#6e54bd",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#5f48a3",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#4d3b84",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#372a5f",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "yellowLight": {
+      "50": {
+        "value": "#fffdf6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#fffae4",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#fff3bc",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#fff0a9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffee9b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ffe87a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#dbc869",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#b2a255",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#80743d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "yellow": {
+      "50": {
+        "value": "#fffbf1",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#fff4d7",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffe39b",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffdb7e",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffd56a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ffc738",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#dbab30",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#b28b27",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#80641c",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "yellowDark": {
+      "50": {
+        "value": "#fbf4ee",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#f5e0ce",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#e5b284",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#de9c60",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#d98c47",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#cc660a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#af5809",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#8f4707",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#663305",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "gray": {
+      "50": {
+        "value": "#fcfdfd",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#f4f4f6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ededf0",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#e8e8eb",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#e4e5e9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#dbdce1",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#bcbdc2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#999a9d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#6e6e71",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#58585a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1000": {
+        "value": "#424244",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1100": {
+        "value": "#2c2c2d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1200": {
+        "value": "#222222",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1300": {
+        "value": "#161617",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1400": {
+        "value": "#0f0f10",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "🚧 1050": {
+        "value": "#323233",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "🚧 1150": {
+        "value": "#252526",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "🚧 75": {
+        "value": "#f8f8f8",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color",
+      "parent": "✨ Light Primitives/Light",
+      "description": ""
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "✨ Light Primitives/Light",
+      "description": ""
+    },
+    "blackAlpha": {
+      "50": {
+        "value": "#00000005",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#0000000d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#0000001a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#00000024",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#00000033",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#0000004d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#00000073",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#0000008c",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#000000bf",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1000": {
+        "value": "#000000d9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "blueDarkAlpha": {
+      "50": {
+        "value": "#0f183440",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#0f183459",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#0f183480",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#0f1834bf",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#0f1834e6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "whiteAlpha": {
+      "50": {
+        "value": "#ffffff05",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffffff0d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffffff1a",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffffff24",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffffff33",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ffffff4d",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "600": {
+        "value": "#ffffff73",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#ffffff8c",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "800": {
+        "value": "#ffffffa6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#ffffffbf",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "1000": {
+        "value": "#ffffffd9",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "blueAlpha": {
+      "50": {
+        "value": "#196cff40",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#196cff59",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#196cff80",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#196cff99",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#196cffe6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "purpleLightAlpha": {
+      "50": {
+        "value": "#d1d4ff40",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#d1d4ff59",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#d1d4ff80",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#d1d4ff99",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#d1d4ffe6",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    },
+    "neutralAlpha": {
+      "50": {
+        "value": "#ededf040",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "100": {
+        "value": "#ededf066",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "500": {
+        "value": "#ededf080",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "700": {
+        "value": "#ededf099",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      },
+      "900": {
+        "value": "#ededf0f2",
+        "type": "color",
+        "parent": "✨ Light Primitives/Light",
+        "description": ""
+      }
+    }
+  }
+}

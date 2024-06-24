@@ -1,0 +1,512 @@
+{
+  "Bg-strong": {
+    "value": "{Dark colors.gray.1400}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Bg": {
+    "value": "{Dark colors.gray.1300}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Default background"
+  },
+  "Bg-overlay": {
+    "value": "{Dark colors.blackAlpha.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Surface": {
+    "value": "{Dark colors.gray.1200}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Cards, Content"
+  },
+  "Surface-raised": {
+    "value": "{Dark colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Surface-sunken": {
+    "value": "{Dark colors.gray.1400}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Surface-overlay": {
+    "value": "{Dark colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "High-contrast": {
+    "value": "{Dark colors.black}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Border": {
+    "value": "{Dark colors.gray.900}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Border-disabled": {
+    "value": "{Dark colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Border-negative-weakest": {
+    "value": "{Dark colors.pinkDark.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Red, Error"
+  },
+  "Border-info-weakest": {
+    "value": "{Dark colors.purpleLight.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple"
+  },
+  "Border-neutral-weakest": {
+    "value": "{Light colors.gray.900}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Border-notice-weakest": {
+    "value": "{Dark colors.yellow.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Yellow, Warning"
+  },
+  "Border-positive-weakest": {
+    "value": "{Dark colors.green.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Success, Green"
+  },
+  "Border-primary-weakest": {
+    "value": "{Dark colors.gray.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, Blue"
+  },
+  "Border-strong": {
+    "value": "{Dark colors.gray.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Border-weak": {
+    "value": "{Dark colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Border-weaker": {
+    "value": "{Dark colors.gray.1200}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Text": {
+    "value": "{Dark colors.gray.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Text-weak": {
+    "value": "{Dark colors.whiteAlpha.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Text-weaker": {
+    "value": "{Light colors.whiteAlpha.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Text-negative": {
+    "value": "{Dark colors.pinkDark.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Error, Red"
+  },
+  "Text-disabled": {
+    "value": "{Dark colors.gray.900}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Primary": {
+    "value": "{Dark colors.gray.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Primary-weak": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-primary": {
+    "value": "{Dark colors.gray.1300}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-high-contrast": {
+    "value": "{Dark colors.gray.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-info-weak": {
+    "value": "{Dark colors.purple.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-negative": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-info": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-primary-weak": {
+    "value": "{Dark colors.gray.1300}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-disabled-strong": {
+    "value": "{Dark colors.gray.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-disabled": {
+    "value": "{Dark colors.gray.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-notice-weakest": {
+    "value": "{Dark colors.yellow.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-notice": {
+    "value": "{Dark colors.blueDark.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-positive-weakest": {
+    "value": "{Dark colors.greenDark.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-positive": {
+    "value": "{Dark colors.blueDark.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "on-negative-weakest": {
+    "value": "{Dark colors.pinkDark.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-neutral": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-neutral-weakest": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "info": {
+    "value": "{Dark colors.purpleDark.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple"
+  },
+  "Info-weak": {
+    "value": "{Dark colors.purpleLight.200}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple"
+  },
+  "Neutral": {
+    "value": "{Dark colors.gray.1000}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Neutral-weak": {
+    "value": "{Dark colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "Negative": {
+    "value": "{Light colors.pinkDark.600}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Red, Error"
+  },
+  "Negative-weak": {
+    "value": "{Dark colors.pinkDark.200}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Red, Error"
+  },
+  "Positive": {
+    "value": "{Dark colors.green.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Positive-weak": {
+    "value": "{Dark colors.green.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Notice-weak": {
+    "value": "{Dark colors.yellowLight.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Warning, Yellow"
+  },
+  "Notice": {
+    "value": "{Dark colors.yellow.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Warning, Yellow"
+  },
+  "Disabled": {
+    "value": "{Dark colors.gray.1000}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Disabled-strong": {
+    "value": "{Dark colors.gray.900}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Interactive-focus": {
+    "value": "{Light colors.purpleLightAlpha.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Brand": {
+    "value": "{Dark colors.blue.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, Blue"
+  },
+  "On-brand": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Text-link": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Text-primary": {
+    "value": "{Dark colors.gray.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Brand-weak": {
+    "value": "{Dark colors.blue.200}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, Blue"
+  },
+  "Border-brand-weakest": {
+    "value": "{Dark colors.blue.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Blue"
+  },
+  "On-brand-weak": {
+    "value": "{Dark colors.blue.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, blue"
+  },
+  "Secondary": {
+    "value": "{Dark colors.purpleDark.500}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple, Interaction, Interactive"
+  },
+  "Secondary-weak": {
+    "value": "{Dark colors.purpleLight.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple, Interaction, Interactive"
+  },
+  "Border-secondary-weakest": {
+    "value": "{Dark colors.purpleDark.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple, Interaction, Interactive"
+  },
+  "On-secondary": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-secondary-weakest": {
+    "value": "{Dark colors.purple.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Notice-weakest": {
+    "value": "{Dark colors.yellowLight.50}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Warning, Yellow"
+  },
+  "Info-weakest": {
+    "value": "{Dark colors.purpleDark.50}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple"
+  },
+  "Secondary-weakest": {
+    "value": "{Dark colors.purple.50}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Purple, Interaction, Interactive"
+  },
+  "Positive-weakest": {
+    "value": "{Dark colors.greenLight.50}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Negative-weakest": {
+    "value": "{Dark colors.pinkDark.100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Red, Error"
+  },
+  "Brand-weakest": {
+    "value": "{Dark colors.blue.50}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, Blue"
+  },
+  "On-primary-weakest": {
+    "value": "{Dark colors.gray.1300}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-positive-weak": {
+    "value": "{Dark colors.greenDark.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-notice-weak": {
+    "value": "{Dark colors.yellow.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-neutral-weak": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "on-negative-weak": {
+    "value": "{Dark colors.pinkDark.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "On-secondary-weak": {
+    "value": "{Dark colors.purple.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Neutral-weakest": {
+    "value": "{Light colors.gray.1100}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Gray, Grey"
+  },
+  "On-brand-weakest": {
+    "value": "{Dark colors.blue.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": "Menti, blue"
+  },
+  "On-info-weakest": {
+    "value": "{Dark colors.purpleDark.800}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Primary-weakest": {
+    "value": "{Dark colors.white}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "🚧 Surface-overlay-transparent": {
+    "value": "{Dark colors.🚧 neutralAlpha.700}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "🚧 Surface-overlay-transparent-hover": {
+    "value": "{Dark colors.🚧 neutralAlpha.900}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  },
+  "Border-transparent": {
+    "value": "{Light colors.whiteAlpha.300}",
+    "type": "color",
+    "parent": " Menti/Dark",
+    "description": ""
+  }
+}

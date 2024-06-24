@@ -1,0 +1,44 @@
+{
+  "global": {
+    "1": {
+      "value": ".125REM",
+      "type": "spacing"
+    },
+    "2": {
+      "value": ".25REM",
+      "type": "spacing"
+    },
+    "3": {
+      "value": ".5REM",
+      "type": "spacing"
+    },
+    "4": {
+      "value": ".75REM",
+      "type": "spacing"
+    },
+    "5": {
+      "value": "1REM",
+      "type": "spacing"
+    },
+    "6": {
+      "value": "1.5REM",
+      "type": "spacing"
+    },
+    "7": {
+      "value": "2REM",
+      "type": "spacing"
+    },
+    "8": {
+      "value": "2.5REM",
+      "type": "spacing"
+    },
+    "9": {
+      "value": "3REM",
+      "type": "spacing"
+    },
+    "10": {
+      "value": "3.5REM",
+      "type": "spacing"
+    }
+  }
+}

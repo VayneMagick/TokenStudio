@@ -1,0 +1,50 @@
+{
+  "rounded-none": {
+    "value": "0rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "0"
+  },
+  "rounded": {
+    "value": "0.25rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius small"
+  },
+  "rounded-lg": {
+    "value": "0.5rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius medium"
+  },
+  "rounded-xl": {
+    "value": "0.75rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius large"
+  },
+  "full": {
+    "value": "624.9375rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius circle"
+  },
+  "rounded-2xl": {
+    "value": "1rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius large"
+  },
+  "rounded-4xl": {
+    "value": "2rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius large"
+  },
+  "rounded-3xl": {
+    "value": "1.5rem",
+    "type": "dimension",
+    "parent": "Border Radius/Kosmos",
+    "description": "border radius large"
+  }
+}
